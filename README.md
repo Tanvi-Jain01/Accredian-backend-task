@@ -1,14 +1,14 @@
 # Accredian-backend-task
 Accredian Backend Task
 
+# As User_email is the Primary Key hence No Duplicate Key Will be inserted in the Database.
+# User_name, User_pswd is Not Null.
 
 ## Structure of Table (MYSQL)
 ![Screenshot (1336)](https://github.com/Tanvi-Jain01/Accredian-backend-task/assets/123053700/d423c5f1-9040-4fe3-a142-7fe06a4ab2b0)
 
-# As User_email is the Primary Key hence No Duplicate Key Will be inserted in the Database.
-# User_name, User_pswd is Not Null.
 
-
+# SQL Commands
 -- Database: `test`  
 'Create database test;'  
 -- This script is used to create a MySQL database named 'test'.
