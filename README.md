@@ -1,11 +1,16 @@
-## Structure of Table
-![Screenshot (1338)](https://github.com/Tanvi-Jain01/Accredian-backend-task/assets/123053700/dc7ebd7c-949e-4ae3-a971-f6ad1a7036ae)
-
 # Accredian-backend-task
 Accredian Backend Task
 
--- Database: `test`
-'Create database test;'
+
+## Structure of Table (MYSQL)
+![Screenshot (1336)](https://github.com/Tanvi-Jain01/Accredian-backend-task/assets/123053700/d423c5f1-9040-4fe3-a142-7fe06a4ab2b0)
+
+# As User_email is the Primary Key hence No Duplicate Key Will be inserted in the Database.
+# User_name, User_pswd is Not Null.
+
+
+-- Database: `test`  
+'Create database test;'  
 -- This script is used to create a MySQL database named 'test'.
 -- To use this database, uncomment the 'use test;' line.
 
@@ -39,5 +44,6 @@ ALTER TABLE `accrediate`
 -- This command finalizes and commits the changes to the database.
 
 COMMIT;
+
 ## Table data
-![Screenshot (1336)](https://github.com/Tanvi-Jain01/Accredian-backend-task/assets/123053700/d423c5f1-9040-4fe3-a142-7fe06a4ab2b0)
+![Screenshot (1338)](https://github.com/Tanvi-Jain01/Accredian-backend-task/assets/123053700/dc7ebd7c-949e-4ae3-a971-f6ad1a7036ae)
